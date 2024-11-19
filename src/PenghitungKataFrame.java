@@ -247,7 +247,7 @@ public class PenghitungKataFrame extends javax.swing.JFrame {
         simpanButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                saveTextToFile(); // button untuk menyimpan teks menjadi file txt
+                saveTextToFile(); // button untuk menyimpan teks berupa file txt
             }
         });
     
