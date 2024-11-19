@@ -349,7 +349,7 @@ public class PenghitungKataFrame extends javax.swing.JFrame {
         int sentenceCount = countSentences(text);
         int paragraphCount = countParagraphs(text);
 
-        // mengupdate isi teks
+        // hasil output perhitungan kata
         kataLabel.setText("Kata: " + wordCount);
         karakterLabel.setText("Huruf: " + charCount);
         kalimatLabel.setText("Kalimat: " + sentenceCount);
