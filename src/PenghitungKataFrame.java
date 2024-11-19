@@ -237,7 +237,7 @@ public class PenghitungKataFrame extends javax.swing.JFrame {
         hitungButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                updateCounts(); //hanya huruf yang dapat dihitung
+                updateCounts(); //hanya huruf yang dapat dihitung jumlahnya
             }
         });
 
