@@ -339,6 +339,7 @@ public class PenghitungKataFrame extends javax.swing.JFrame {
     private javax.swing.JButton ulangButton;
     // End of variables declaration//GEN-END:variables
 
+    //metode untuk menghitung jumlah kata
   private void updateCounts() {
         String text = kataTextArea.getText();
         
